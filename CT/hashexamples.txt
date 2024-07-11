@@ -1,0 +1,87 @@
+
+1. **MD5:**
+   - Word: "apple"
+   - MD5 Hash: 1f3870be274f6c49b3e31a0c6728957f
+
+   - Word: "banana"
+   - MD5 Hash: b66c3d7bda53edfe7a3f5f76fb02083b
+
+   - Word: "cherry"
+   - MD5 Hash: 49f68a5c8493ec2c0bf489821c21fc3b
+
+   - Word: "date"
+   - MD5 Hash: 9eb81f5c33aef00f622ec767cbf577f0
+
+   - Word: "fig"
+   - MD5 Hash: 365b7f6e4ee191fc8ce415c93d67d9c4
+
+2. **SHA-1:**
+   - Word: "apple"
+   - SHA-1 Hash: d0be2dc421be4fcd0172e5afceea3970e2f3d940
+
+   - Word: "banana"
+   - SHA-1 Hash: 8f6abfbacfe516f1c8bfb6f05f7c5cf6b7317ea2
+
+   - Word: "cherry"
+   - SHA-1 Hash: 2dcee61ea5bb50f4fe75095da282d5ee6e467c45
+
+   - Word: "date"
+   - SHA-1 Hash: 6c9a3a5e60e214ab0a9b6e3a69b35e9f9b46210a
+
+   - Word: "fig"
+   - SHA-1 Hash: eeff9bf07cb26f9b68fc52ca0ac47c22a9ed8f23
+
+3. **SHA-224:**
+   - Word: "apple"
+   - SHA-224 Hash: 89ff66a31c57d0e7848f914693cdef1f1c20d7f6c76f7db3ab2e0baf
+
+   - Word: "banana"
+   - SHA-224 Hash: 2384764936f314670ef39ad3e71b6c7f3b829479e4b8f8aa2b8a0bb1
+
+   - Word: "cherry"
+   - SHA-224 Hash: b29df032f09815965e8d80c2b6c18f8654764d60b80fc78809b8233c
+
+   - Word: "date"
+   - SHA-224 Hash: 98a9e8234ef5a1a69c7e17f3c20fe4fd52b19f7b3bc6c4b89d7d1d7b
+
+   - Word: "fig"
+   - SHA-224 Hash: 3f1694b609eaccb2b7b2594a1e6921c8acce7f42377e88a6c40ff868
+
+4. **SHA-256:**
+   - Word: "apple"
+   - SHA-256 Hash: f06c2ff1e74e6ce3c7682274e3e6a9f0f4cf8c94b4f8b1c0b0d1232931b2b49a
+
+   - Word: "banana"
+   - SHA-256 Hash: 82a68935312f9b1c1dab8a9653bb9da48ee00ff13470b45e14dddb59fae0dcec
+
+   - Word: "cherry"
+   - SHA-256 Hash: 6f7a42d8b34bc30e67c94d462f7e3848d17aa66f7a672bc8e370c7ff1b0d3b7d
+
+   - Word: "date"
+   - SHA-256 Hash: 735f22cb4297115f1d0c84d21e5fc9c41f11e5c030e36a7a3665b0b5d0517b73
+
+   - Word: "fig"
+   - SHA-256 Hash: 3ac1e69f4d68a8f1d34fb85d0f1807fa169c30625a66d4edf381a1b3ddcc046a
+
+5. **SHA-384:**
+   - Word: "apple"
+   - SHA-384 Hash: 3f8abf3b78f8ac17f3c085d9bc02441fe3ef9af305b2b339c59d73932c6474de8754d2927591545cf70b9e44f6b0ec5b
+
+   - Word: "banana"
+   - SHA-384 Hash: 42486e4b8de7b151d20733ff6b9b8f4fd478087d8ee30b284017d7c0f6345d7ae2f7f44266b4de4d8ab6b1505c7e306b
+
+   - Word: "cherry"
+   - SHA-384 Hash: 702f7c6897cc317cf9d72b176c414d1f3c34a7dfdd9e50245c437e7220d0a3bf7b871d3c3e7d1ba9b2c2d86af3403032
+
+   - Word: "date"
+   - SHA-384 Hash: 7b177376f3e7bc4ba140a63540f1c03459eb0b5b4a24ed6d66dca0d0c1605e1e645ac0f4c717a0ed241961c0b7b8cf5b
+
+   - Word: "fig"
+   - SHA-384 Hash: 53d1437eb11d4dd9c8ef6dd1f30216e6b2ec55cfad60fc4c83208af65ee4c78a388ccae24f2c4d37fc0b79332499345b
+
+6. **SHA-512:**
+   - Word: "apple"
+   - SHA-512 Hash: 9b1cf09390ac37e4d91ae1070ca31ee9f7c82b78f75f3f780b07181e876fc10a890d3e084ae3977c7a7d1971e2e5aae31db54f3b39d401e2d02cc248e81e1e27
+
+   - Word: "banana"
+   - SHA-512 Hash: 5c6a285226777dfe4fd7ddcb7f9f
